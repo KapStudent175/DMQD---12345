@@ -6,9 +6,9 @@
   },
 
   "server": {
-    "ip": "KapPlayer.aternos.me",
-    "port": 25565,
-    "version": "1.17.1"
+    "ip": "WellSMP304.aternos.me",
+    "port": 56184,
+    "version": "1.16.4"
   },
 
   "position": {
