@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "bot",
+    "username": "BotGit",
     "password": "",
     "type": "mojang"
   },
 
   "server": {
     "ip": "WellSMP304.aternos.me",
-    "port": 56184,
-    "version": "1.16.4"
+    "port": 25565,
+    "version": "1.15.4"
   },
 
   "position": {
